@@ -1,0 +1,5 @@
+deploy.zip
+vendor/
+.bundle/
+lib/
+Gemfile.lock
